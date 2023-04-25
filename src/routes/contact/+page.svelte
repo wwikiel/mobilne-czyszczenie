@@ -1,6 +1,10 @@
 <script>
 	import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
-	// import logo from '$lib/assets/logo.png';
+	import phone from '$lib/assets/phone.png';
+	import email from '$lib/assets/email.png';
+	import facebook from '$lib/assets/facebook.png';
+	import instagram from '$lib/assets/instagram.png';
+	import tiktok from '$lib/assets/tiktok.png';
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -29,7 +33,32 @@
 	</NavUl>
 </Navbar>
 <div
-	class="flex flex-col lg:flex-row justify-center items-center w-full min-h-screen bg-black space-y-12 lg:space-x-12 p-8 text-white"
+	class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12 p-8 text-white"
 >
-	<h2 class="text-2xl md:text-4xl">Kontakt do nas</h2>
+	<h2 class="text-3xl md:text-4xl">Kontakt do nas</h2>
+	<div class="space-y-6">
+		<div class="flex flex-row items-center space-x-6">
+			<img src={phone} alt="Phone" class="w-12" />
+			<a href="tel:+48 500 678 123" class="text-xl md:text-2xl">+48 500 678 123</a>
+		</div>
+		<div class="flex flex-row items-center space-x-6">
+			<img src={email} alt="Email" class="w-12" />
+			<a href="mailto:wikiel.wikotira@gmail.com" class="text-xl md:text-2xl"
+				>wikiel.wiktoria@gmail.com</a
+			>
+		</div>
+	</div>
+	<div class="flex flex-row space-x-12">
+		<a href="https://www.facebook.com/profile.php?id=100080013793673"
+			><img src={facebook} alt="Facebook" class="w-16" /></a
+		>
+		<a
+			href="https://www.instagram.com/mobilne.czyszczenie/?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
+			><img src={instagram} alt="Instagram" class="w-16" /></a
+		>
+		<a
+			href="https://www.tiktok.com/@mobilne.czyszczenie?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
+			><img src={tiktok} alt="Tiktok" class="w-16" /></a
+		>
+	</div>
 </div>
