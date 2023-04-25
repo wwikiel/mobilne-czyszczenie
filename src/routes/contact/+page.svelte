@@ -48,17 +48,29 @@
 			>
 		</div>
 	</div>
+	<div class="w-full h-56 px-4 md:px-32 lg:px-56">
+		<iframe
+			title="map"
+			src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d610.3836898953537!2d20.80129339567952!3d52.26999293320156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eb503dd4a39eb%3A0x53885355bc9aae4b!2sAkacjowa%2094%2C%2005-080%20Koczargi%20Stare!5e0!3m2!1spl!2spl!4v1678876514040!5m2!1spl!2spl"
+			class="rounded-xl"
+			height="100%"
+			width="100%"
+			allowfullscreen={true}
+			loading="lazy"
+			referrerpolicy="no-referrer-when-downgrade"
+		/>
+	</div>
 	<div class="flex flex-row space-x-12">
 		<a href="https://www.facebook.com/profile.php?id=100080013793673"
-			><img src={facebook} alt="Facebook" class="w-16" /></a
+			><img src={facebook} alt="Facebook" class="w-12" /></a
 		>
 		<a
 			href="https://www.instagram.com/mobilne.czyszczenie/?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
-			><img src={instagram} alt="Instagram" class="w-16" /></a
+			><img src={instagram} alt="Instagram" class="w-12" /></a
 		>
 		<a
 			href="https://www.tiktok.com/@mobilne.czyszczenie?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
-			><img src={tiktok} alt="Tiktok" class="w-16" /></a
+			><img src={tiktok} alt="Tiktok" class="w-12" /></a
 		>
 	</div>
 </div>
