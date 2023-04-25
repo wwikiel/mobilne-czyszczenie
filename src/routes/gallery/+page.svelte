@@ -1,6 +1,22 @@
 <script>
 	import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
-	import logo from '$lib/assets/logo.png';
+	import img1 from '$lib/assets/gallery/img-1.jpg';
+	import img2 from '$lib/assets/gallery/img-2.jpg';
+	import img3 from '$lib/assets/gallery/img-3.jpg';
+	import img4 from '$lib/assets/gallery/img-4.jpg';
+	import img5 from '$lib/assets/gallery/img-5.jpg';
+	import img6 from '$lib/assets/gallery/img-6.jpg';
+	import img7 from '$lib/assets/gallery/img-7.jpg';
+	import img8 from '$lib/assets/gallery/img-8.jpg';
+	import img9 from '$lib/assets/gallery/img-9.jpg';
+	import img10 from '$lib/assets/gallery/img-10.jpg';
+	import img11 from '$lib/assets/gallery/img-11.jpg';
+	import img12 from '$lib/assets/gallery/img-12.jpg';
+	import img13 from '$lib/assets/gallery/img-13.jpg';
+	import img14 from '$lib/assets/gallery/img-14.jpg';
+	import img15 from '$lib/assets/gallery/img-15.jpg';
+	import img16 from '$lib/assets/gallery/img-16.jpg';
+	import img17 from '$lib/assets/gallery/img-17.jpeg';
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -28,3 +44,28 @@
 		<NavLi href="/contact">Kontakt</NavLi>
 	</NavUl>
 </Navbar>
+<div
+	class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12 text-white"
+>
+	<div
+		class="my-4 md:my-8 lg:my-24 mx-12 md:mx-32 lg:mx-64 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+	>
+		<img src={img1} class="w-full h-full object-cover" alt="img1" />
+		<img src={img2} class="w-full h-full object-cover" alt="img2" />
+		<img src={img3} class="w-full h-full object-cover" alt="img3" />
+		<img src={img4} class="w-full h-full object-cover" alt="img4" />
+		<img src={img5} class="w-full h-full object-cover" alt="img5" />
+		<img src={img6} class="w-full h-full object-cover" alt="img6" />
+		<img src={img7} class="w-full h-full object-cover" alt="img7" />
+		<img src={img8} class="w-full h-full object-cover" alt="img8" />
+		<img src={img9} class="w-full h-full object-cover" alt="img9" />
+		<img src={img10} class="w-full h-full object-cover" alt="img10" />
+		<img src={img11} class="w-full h-full object-cover" alt="img11" />
+		<img src={img12} class="w-full h-full object-cover" alt="img12" />
+		<img src={img13} class="w-full h-full object-cover" alt="img13" />
+		<img src={img14} class="w-full h-full object-cover" alt="img14" />
+		<img src={img15} class="w-full h-full object-cover" alt="img15" />
+		<img src={img16} class="w-full h-full object-cover" alt="img16" />
+		<img src={img17} class="w-full h-full object-cover" alt="img17" />
+	</div>
+</div>
