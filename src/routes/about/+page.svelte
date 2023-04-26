@@ -49,7 +49,7 @@
 	<img src={about} class="w-3/4 lg:w-1/3" alt="O firmie" />
 	<div class="text-white">
 		<ul class="space-y-2 text-xl md:text-2xl">
-			<h2 class="text-2xl md:text-4xl mb-4">Dlaczego właśnie my?</h2>
+			<h2 class="text-2xl md:text-4xl ml-10 mb-8">Dlaczego właśnie my?</h2>
 			<li>
 				<i class="fa-solid fa-check text-green-500 mr-4" />Nasz zespół stawia nie na ilość lecz na
 				jakość!

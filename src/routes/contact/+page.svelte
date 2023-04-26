@@ -70,15 +70,15 @@
 	</div>
 	<div class="flex flex-row space-x-12">
 		<a href="https://www.facebook.com/profile.php?id=100080013793673"
-			><img src={facebook} alt="Facebook" class="w-12" /></a
+			><img src={facebook} alt="Facebook" class="w-14" /></a
 		>
 		<a
 			href="https://www.instagram.com/mobilne.czyszczenie/?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
-			><img src={instagram} alt="Instagram" class="w-12" /></a
+			><img src={instagram} alt="Instagram" class="w-14" /></a
 		>
 		<a
 			href="https://www.tiktok.com/@mobilne.czyszczenie?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
-			><img src={tiktok} alt="Tiktok" class="w-12" /></a
+			><img src={tiktok} alt="Tiktok" class="w-14" /></a
 		>
 	</div>
 </div>

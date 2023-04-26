@@ -86,7 +86,7 @@
 		<tr> <td>uzupełnianie spoin piaskiem</td> <td>od 4 zł/m²</td> </tr>
 	</table>
 
-	<p>
+	<p class="pb-24">
 		* Wszystkie podane ceny są cenami orientacyjnymi oraz są uzależnione od wielkości czyszczonej
 		powierzchni i stopnia zabrudzenia <br />*Minimalna wartość zlecenia 149zł
 	</p>
