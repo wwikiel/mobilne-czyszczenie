@@ -44,12 +44,15 @@
 	<div class="space-y-6">
 		<div class="flex flex-row items-center space-x-6">
 			<img src={phone} alt="Phone" class="w-12" />
-			<a href="tel:+48 500 678 123" class="text-xl md:text-2xl">+48 500 678 123</a>
+			<div class="flex flex-col space-y-4">
+				<a href="tel:+48 732 777 469" class="text-xl md:text-2xl">+48 732 777 469</a>
+				<a href="tel:+48 505 448 426" class="text-xl md:text-2xl">+48 505 448 426</a>
+			</div>
 		</div>
 		<div class="flex flex-row items-center space-x-6">
 			<img src={email} alt="Email" class="w-12" />
-			<a href="mailto:wikiel.wikotira@gmail.com" class="text-xl md:text-2xl"
-				>wikiel.wiktoria@gmail.com</a
+			<a href="mailto:mobilne.czyszczenie@onet.pl" class="text-xl md:text-2xl"
+				>mobilne.czyszczenie@onet.pl</a
 			>
 		</div>
 	</div>
