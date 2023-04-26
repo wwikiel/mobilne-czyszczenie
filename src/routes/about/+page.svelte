@@ -44,7 +44,7 @@
 	<h2 class="text-4xl">O firmie</h2>
 </div>
 <div
-	class="flex flex-col lg:flex-row justify-center items-center w-full min-h-screen bg-black space-y-12 lg:space-x-12 p-8"
+	class="flex flex-col lg:flex-row justify-center w-full bg-black space-y-12 lg:space-x-12 p-8 mt-16"
 >
 	<img src={about} class="w-3/4 lg:w-1/3" alt="O firmie" />
 	<div class="text-white">

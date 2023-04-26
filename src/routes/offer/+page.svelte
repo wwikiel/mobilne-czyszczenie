@@ -46,7 +46,7 @@
 >
 	<h2 class="text-4xl">Oferta</h2>
 </div>
-<div class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12">
+<div class="flex flex-col justify-center w-full bg-black space-y-12 mt-16">
 	<div class="flex flex-col sm:flex-row flex-wrap justify-center items-center">
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
 			<img src={carPricingPlan} alt="Car" class="w-64 h-40 object-cover rounded-md" />

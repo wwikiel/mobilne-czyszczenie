@@ -38,7 +38,7 @@
 	<h2 class="text-4xl">Kontakt</h2>
 </div>
 <div
-	class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12 p-8 text-white"
+	class="flex flex-col justify-center items-center w-full bg-black space-y-12 p-8 text-white mt-16"
 >
 	<h2 class="text-3xl md:text-4xl">Kontakt do nas</h2>
 	<div class="space-y-6">
