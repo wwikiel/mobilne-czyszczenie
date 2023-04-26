@@ -41,6 +41,11 @@
 		<NavLi href="/contact">Kontakt</NavLi>
 	</NavUl>
 </Navbar>
+<div
+	class="flex flex-col justify-center items-center bg-bg-header bg-cover bg-center w-full h-48 bg-black text-white"
+>
+	<h2 class="text-4xl">Oferta</h2>
+</div>
 <div class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12">
 	<div class="flex flex-col sm:flex-row flex-wrap justify-center items-center">
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">

@@ -39,6 +39,11 @@
 	</NavUl>
 </Navbar>
 <div
+	class="flex flex-col justify-center items-center bg-bg-header bg-cover bg-center w-full h-48 bg-black text-white"
+>
+	<h2 class="text-4xl">O firmie</h2>
+</div>
+<div
 	class="flex flex-col lg:flex-row justify-center items-center w-full min-h-screen bg-black space-y-12 lg:space-x-12 p-8"
 >
 	<img src={about} class="w-3/4 lg:w-1/3" alt="O firmie" />

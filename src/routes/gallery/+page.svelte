@@ -45,6 +45,11 @@
 	</NavUl>
 </Navbar>
 <div
+	class="flex flex-col justify-center items-center bg-bg-header bg-cover bg-center w-full h-48 bg-black text-white"
+>
+	<h2 class="text-4xl">Galeria</h2>
+</div>
+<div
 	class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12 text-white"
 >
 	<div
