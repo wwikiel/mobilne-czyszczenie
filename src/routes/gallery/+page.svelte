@@ -53,24 +53,22 @@
 	class="flex flex-col justify-center items-center w-full min-h-screen bg-black space-y-12 text-white"
 >
 	<div
-		class="my-4 md:my-8 lg:my-24 mx-12 md:mx-32 lg:mx-64 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+		class="my-4 md:my-8 lg:my-24 mx-12 md:mx-24 lg:mx-48 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
 	>
-		<img src={img1} class="w-full h-56 object-cover" alt="img1" />
-		<img src={img2} class="w-full h-56 object-cover" alt="img2" />
-		<img src={img3} class="w-full h-56 object-cover" alt="img3" />
-		<img src={img4} class="w-full h-56 object-cover" alt="img4" />
-		<img src={img5} class="w-full h-56 object-cover" alt="img5" />
-		<img src={img6} class="w-full h-56 object-cover" alt="img6" />
-		<img src={img7} class="w-full h-56 object-cover" alt="img7" />
-		<img src={img8} class="w-full h-56 object-cover" alt="img8" />
-		<img src={img9} class="w-full h-56 object-cover" alt="img9" />
-		<img src={img10} class="w-full h-56 object-cover" alt="img10" />
-		<img src={img11} class="w-full h-56 object-cover" alt="img11" />
-		<img src={img12} class="w-full h-56 object-cover" alt="img12" />
-		<img src={img13} class="w-full h-56 object-cover" alt="img13" />
-		<img src={img14} class="w-full h-56 object-cover" alt="img14" />
-		<img src={img15} class="w-full h-56 object-cover" alt="img15" />
-		<img src={img16} class="w-full h-56 object-cover" alt="img16" />
-		<img src={img17} class="w-full h-56 object-cover" alt="img17" />
+		<img src={img1} class="w-full h-72 object-cover" alt="img1" />
+		<img src={img2} class="w-full h-72 object-cover" alt="img2" />
+		<img src={img3} class="w-full h-72 object-cover" alt="img3" />
+		<img src={img4} class="w-full h-72 object-cover" alt="img4" />
+		<img src={img5} class="w-full h-72 object-cover" alt="img5" />
+		<img src={img6} class="w-full h-72 object-cover" alt="img6" />
+		<img src={img7} class="w-full h-72 object-cover" alt="img7" />
+		<img src={img8} class="w-full h-72 object-cover" alt="img8" />
+		<img src={img9} class="w-full h-72 object-cover" alt="img9" />
+		<img src={img10} class="w-full h-72 object-cover" alt="img10" />
+		<img src={img11} class="w-full h-72 object-cover" alt="img11" />
+		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
+		<img src={img13} class="w-full h-72 object-cover" alt="img13" />
+		<img src={img15} class="w-full h-72 object-cover" alt="img15" />
+		<img src={img16} class="w-full h-72 object-cover" alt="img16" />
 	</div>
 </div>
