@@ -12,14 +12,6 @@
 	import img10 from '$lib/assets/gallery/image-10.jpeg';
 	import img11 from '$lib/assets/gallery/image-11.jpeg';
 	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	import img12 from '$lib/assets/gallery/image-12.jpeg';
-	
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -69,7 +61,6 @@
 		<img src={img9} class="w-full h-72 object-cover" alt="img9" />
 		<img src={img10} class="w-full h-72 object-cover" alt="img10" />
 		<img src={img11} class="w-full h-72 object-cover" alt="img11" />
-		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
 		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
 	</div>
 </div>
