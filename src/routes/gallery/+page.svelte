@@ -63,6 +63,6 @@
 		<img src={img10} class="w-full h-72 object-cover" alt="img10" />
 		<img src={img11} class="w-full h-72 object-cover" alt="img11" />
 		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
-		<img src={image-12.jpeg) />
+		<img src={img12) />
 	</div>
 </div>
