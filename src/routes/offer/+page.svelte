@@ -49,7 +49,7 @@
 <div class="flex flex-col justify-center w-full bg-black space-y-12 mt-16">
 	<div class="flex flex-col sm:flex-row flex-wrap justify-center items-center">
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={carPricingPlan} alt="Car" class="w-64 h-40 object-cover rounded-md" />
+			<img src={gardenPricingPlan} alt="Garden" class="w-64 h-40 object-cover rounded-md" />
             <p class="text-2xl">Mycie kostki i ogrodzeń</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Czyszczenie chemiczne</li>
@@ -59,7 +59,7 @@
 			</ul>
 		</div>
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={homePricingPlan} alt="Home" class="w-64 h-40 object-cover rounded-md" />
+			<img src={housePricingPlan} alt="House" class="w-64 h-40 object-cover rounded-md" />
 			<p class="text-2xl">Mycie budynków</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Czyszczenie elewacji</li>
@@ -69,7 +69,7 @@
 			</ul>
 		</div>
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={housePricingPlan} alt="House" class="w-64 h-40 object-cover rounded-md" />
+			<img src={carPricingPlan} alt="Car" class="w-64 h-40 object-cover rounded-md" />
 			<p class="text-2xl">Czyszczenie pojazdów</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Mycie</li>
@@ -79,7 +79,7 @@
 			</ul>
 		</div>
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={gardenPricingPlan} alt="Garden" class="w-64 h-40 object-cover rounded-md" />
+			<img src={homePricingPlan} alt="Home" class="w-64 h-40 object-cover rounded-md" />
 			<p class="text-2xl">Czyszczenie wnętrz</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie zanieczyszczeń</li>
