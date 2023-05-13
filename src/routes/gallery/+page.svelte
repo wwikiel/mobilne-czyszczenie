@@ -13,7 +13,6 @@
 	import img11 from '$lib/assets/gallery/img-11.jpg';
 	import img12 from '$lib/assets/gallery/img-12.jpg';
 	import img13 from '$lib/assets/gallery/img-13.jpg';
-	import image-1.jpeg from '$lib/assets/gallery/image-1.jpeg';
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -65,6 +64,5 @@
 		<img src={img11} class="w-full h-72 object-cover" alt="img11" />
 		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
 		<img src={img13} class="w-full h-72 object-cover" alt="img13" />
-		<img src={image-1.jpeg} class="w-full h-72 object-cover" alt="img16" />
 	</div>
 </div>
