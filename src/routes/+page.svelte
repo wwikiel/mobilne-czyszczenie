@@ -32,7 +32,7 @@
 	<div class="flex flex-col justify-center items-center space-y-12 mt-16 md:mt-32 lg:mt-48">
 		<img src={logo} class="h-48 sm:h-64" alt="Logo" />
 		<div class="text-center text-white">
-			<h1 class="text-4xl">Oferujemy mobilne usługi czyszczenia i mycia</h1>
+			<h1 class="text-4xl">Oferujemy profesjonalne usługi czyszczenia wszelakich zanieczyszczeń z dbałością o każdy szczegół!</h1>
 		</div>
 		<a href="/pricing" class="bg-yellow-300 hover:bg-yellow-400 px-6 py-2 rounded-lg text-lg"
 			>Zobacz ofertę</a
