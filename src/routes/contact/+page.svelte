@@ -45,8 +45,7 @@
 		<div class="flex flex-row items-center space-x-6">
 			<img src={phone} alt="Phone" class="w-12" />
 			<div class="flex flex-col space-y-4">
-				<a href="tel:+48 732 777 469" class="text-xl md:text-2xl">+48 732 777 469</a>
-				<a href="tel:+48 505 448 426" class="text-xl md:text-2xl">+48 505 448 426</a>
+				<a href="tel:+48 503 174 227" class="text-xl md:text-2xl">+48 503 174 227</a>
 			</div>
 		</div>
 		<div class="flex flex-row items-center space-x-6">

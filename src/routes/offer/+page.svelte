@@ -50,7 +50,7 @@
 	<div class="flex flex-col sm:flex-row flex-wrap justify-center items-center">
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
 			<img src={carPricingPlan} alt="Car" class="w-64 h-40 object-cover rounded-md" />
-			<p class="text-2xl">Czyszczenie pojazdów</p>
+            <p class="text-2xl">Czyszczenie pojazdów</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie plam i zabrudzeń</li>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Odświeżanie</li>
