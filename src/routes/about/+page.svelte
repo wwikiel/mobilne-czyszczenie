@@ -17,7 +17,7 @@
 	<NavBrand href="/">
 		<!-- <img src={logo} class="mr-3 h-6 sm:h-9" alt="Logo" /> -->
 		<span class="self-center whitespace-nowrap text-xl font-semibold text-white">
-			Mobilne czyszczenie
+			MOBILNE CZYSZCZENIE
 		</span>
 	</NavBrand>
 	<NavHamburger
