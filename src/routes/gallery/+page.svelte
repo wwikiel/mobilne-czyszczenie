@@ -12,6 +12,26 @@
 	import img10 from '$lib/assets/gallery/image-10.jpeg';
 	import img11 from '$lib/assets/gallery/image-11.jpeg';
 	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img13 from '$lib/assets/gallery/image-13.jpeg';
+	import img14 from '$lib/assets/gallery/image-14.jpeg';
+	import img15 from '$lib/assets/gallery/image-15.jpeg';
+	import img16 from '$lib/assets/gallery/image-16.jpeg';
+	import img17 from '$lib/assets/gallery/image-17.jpeg';
+	import img18 from '$lib/assets/gallery/image-18.jpeg';
+	import img19 from '$lib/assets/gallery/image-19.jpeg';
+	import img20 from '$lib/assets/gallery/image-20.jpeg';
+	import img21 from '$lib/assets/gallery/image-21.jpeg';
+	import img22 from '$lib/assets/gallery/image-22.jpeg';
+	import img23 from '$lib/assets/gallery/image-23.jpeg';
+	import img24 from '$lib/assets/gallery/image-24.jpeg';
+	import img25 from '$lib/assets/gallery/image-25.jpeg';
+	import img26 from '$lib/assets/gallery/image-26.jpeg';
+	import img27 from '$lib/assets/gallery/image-27.jpeg';
+	import img28 from '$lib/assets/gallery/image-28.jpeg';
+	import img29 from '$lib/assets/gallery/image-29.jpeg';
+	import img30 from '$lib/assets/gallery/image-30.jpeg';
+	import img31 from '$lib/assets/gallery/image-31.jpeg';
+	import img32 from '$lib/assets/gallery/image-32.jpeg';
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -62,5 +82,25 @@
 		<img src={img10} class="w-full h-72 object-cover" alt="img10" />
 		<img src={img11} class="w-full h-72 object-cover" alt="img11" />
 		<img src={img12} class="w-full h-72 object-cover" alt="img12" />
+		<img src={img13} class="w-full h-72 object-cover" alt="img13" />
+		<img src={img14} class="w-full h-72 object-cover" alt="img14" />
+		<img src={img15} class="w-full h-72 object-cover" alt="img15" />
+		<img src={img16} class="w-full h-72 object-cover" alt="img16" />
+		<img src={img17} class="w-full h-72 object-cover" alt="img17" />
+		<img src={img18} class="w-full h-72 object-cover" alt="img18" />
+		<img src={img19} class="w-full h-72 object-cover" alt="img19" />
+		<img src={img20} class="w-full h-72 object-cover" alt="img20" />
+		<img src={img21} class="w-full h-72 object-cover" alt="img21" />
+		<img src={img22} class="w-full h-72 object-cover" alt="img22" />
+		<img src={img23} class="w-full h-72 object-cover" alt="img23" />
+		<img src={img24} class="w-full h-72 object-cover" alt="img24" />
+		<img src={img25} class="w-full h-72 object-cover" alt="img25" />
+		<img src={img26} class="w-full h-72 object-cover" alt="img26" />
+		<img src={img27} class="w-full h-72 object-cover" alt="img27" />
+		<img src={img28} class="w-full h-72 object-cover" alt="img28" />
+		<img src={img29} class="w-full h-72 object-cover" alt="img29" />
+		<img src={img30} class="w-full h-72 object-cover" alt="img30" />
+		<img src={img31} class="w-full h-72 object-cover" alt="img31" />
+		<img src={img32} class="w-full h-72 object-cover" alt="img32" />
 	</div>
 </div>
