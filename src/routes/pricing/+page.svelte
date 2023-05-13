@@ -17,7 +17,7 @@
 	<NavUl
 		ulClass="bg-transparent flex flex-col p-4 mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium border-none"
 		nonActiveClass="text-white md:hover:text-yellow-300 hover:bg-gray-800 md:hover:bg-transparent"
-		activeClass="bg-yellow-300 md:bg-transparent text-white md:text-yellow-300"
+		activeClass="bg-yellow-300 md:bg-transparent text-black md:text-yellow-300"
 		{hidden}
 	>
 		<NavLi href="/">Home</NavLi>
