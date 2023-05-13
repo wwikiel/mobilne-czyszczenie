@@ -1,16 +1,23 @@
 <script>
 	import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
-	import img1 from '$lib/assets/gallery/img-1.jpg';
-	import img2 from '$lib/assets/gallery/img-2.jpg';
-	import img3 from '$lib/assets/gallery/img-3.jpg';
-	import img4 from '$lib/assets/gallery/img-4.jpg';
-	import img5 from '$lib/assets/gallery/img-5.jpg';
-	import img6 from '$lib/assets/gallery/img-6.jpg';
-	import img7 from '$lib/assets/gallery/img-7.jpg';
-	import img8 from '$lib/assets/gallery/img-8.jpg';
-	import img9 from '$lib/assets/gallery/img-9.jpg';
-	import img10 from '$lib/assets/gallery/img-10.jpg';
-	import img11 from '$lib/assets/gallery/img-11.jpg';
+	import img1 from '$lib/assets/gallery/image-1.jpeg';
+	import img2 from '$lib/assets/gallery/image-2.jpeg';
+	import img3 from '$lib/assets/gallery/image-3.jpeg';
+	import img4 from '$lib/assets/gallery/image-4.jpeg';
+	import img5 from '$lib/assets/gallery/image-5.jpeg';
+	import img6 from '$lib/assets/gallery/image-6.jpeg';
+	import img7 from '$lib/assets/gallery/image-7.jpeg';
+	import img8 from '$lib/assets/gallery/image-8.jpeg';
+	import img9 from '$lib/assets/gallery/image-9.jpeg';
+	import img10 from '$lib/assets/gallery/image-10.jpeg';
+	import img11 from '$lib/assets/gallery/image-11.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
+	import img12 from '$lib/assets/gallery/image-12.jpeg';
 	import img12 from '$lib/assets/gallery/image-12.jpeg';
 	
 </script>
