@@ -50,26 +50,16 @@
 	<div class="flex flex-col sm:flex-row flex-wrap justify-center items-center">
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
 			<img src={carPricingPlan} alt="Car" class="w-64 h-40 object-cover rounded-md" />
-            <p class="text-2xl">Czyszczenie pojazdów</p>
+            <p class="text-2xl">Mycie kostki i ogrodzeń</p>
 			<ul>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie plam i zabrudzeń</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Odświeżanie</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Czyszczenie chemiczne</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie plam</li>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Impregnacja</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Ozonowanie</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Uzupełnianie spoin</li>
 			</ul>
 		</div>
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
 			<img src={homePricingPlan} alt="Home" class="w-64 h-40 object-cover rounded-md" />
-			<p class="text-2xl">Czyszczenie wnętrz</p>
-			<ul>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie zanieczyszczeń</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Pranie tapicerki meblowej</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Nadanie świeżości</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Dezynfekcja</li>
-			</ul>
-		</div>
-		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={housePricingPlan} alt="House" class="w-64 h-40 object-cover rounded-md" />
 			<p class="text-2xl">Mycie budynków</p>
 			<ul>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Czyszczenie elewacji</li>
@@ -79,13 +69,23 @@
 			</ul>
 		</div>
 		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
-			<img src={gardenPricingPlan} alt="Garden" class="w-64 h-40 object-cover rounded-md" />
-			<p class="text-2xl">Mycie kostki i ogrodzeń</p>
+			<img src={housePricingPlan} alt="House" class="w-64 h-40 object-cover rounded-md" />
+			<p class="text-2xl">Czyszczenie pojazdów</p>
 			<ul>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Czyszczenie chemiczne</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie plam</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Mycie</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie plam i zabrudzeń</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Ozonowanie</li>
 				<li><i class="fa-solid fa-check text-green-500 mr-4" />Impregnacja</li>
-				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie mchów</li>
+			</ul>
+		</div>
+		<div class="w-80 h-104 rounded-lg bg-gray-800 p-8 m-2 text-white space-y-4 overflow-auto">
+			<img src={gardenPricingPlan} alt="Garden" class="w-64 h-40 object-cover rounded-md" />
+			<p class="text-2xl">Czyszczenie wnętrz</p>
+			<ul>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Usuwanie zanieczyszczeń</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Pranie tapicerki meblowej</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Odświeżanie</li>
+				<li><i class="fa-solid fa-check text-green-500 mr-4" />Dezynfekcja</li>
 			</ul>
 		</div>
 	</div>
