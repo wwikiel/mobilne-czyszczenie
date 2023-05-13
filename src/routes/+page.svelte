@@ -30,7 +30,7 @@
 		</NavUl>
 	</Navbar>
 	<div class="flex flex-col justify-center items-center space-y-12 mt-16 md:mt-32 lg:mt-48">
-		<img src={logo} class="h-64 sm:h-64" alt="Logo" />
+		<img src={logo} class="h-80 sm:h-80" alt="Logo" />
 		<div class="text-center text-white">
 			<h1 class="text-4xl">Oferujemy profesjonalne usługi czyszczenia wszelakich zanieczyszczeń z dbałością o każdy szczegół!</h1>
 		</div>
