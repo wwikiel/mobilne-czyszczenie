@@ -83,6 +83,8 @@
 	</div>
 	<div class="w-full h-56 px-4 md:px-32 lg:px-56 items-center flex flex-col justify-center">
 		<h2 class="text-3xl md:text-4xl space-y-12">Zobacz co o nas mówią!</h2>
+	</div>
+	<div class="w-full h-56 px-4 md:px-32 lg:px-56 items-center flex flex-col justify-center">
 		<img src={qr} alt="Kod QR"/>
 	</div>
 </div>
