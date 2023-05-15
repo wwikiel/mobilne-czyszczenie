@@ -58,7 +58,7 @@
 	<div class="w-full h-56 px-4 md:px-32 lg:px-56">
 		<iframe
 			title="map"
-			src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d610.3836898953537!2d20.80129339567952!3d52.26999293320156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eb503dd4a39eb%3A0x53885355bc9aae4b!2sAkacjowa%2094%2C%2005-080%20Koczargi%20Stare!5e0!3m2!1spl!2spl!4v1678876514040!5m2!1spl!2spl"
+			src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2441.528203525221!2d20.799017076574536!3d52.27011197199671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eb503dd2df737%3A0xcf91c13a6c1bf5e9!2sAkacjowa%2094J%2C%2005-080%20Koczargi%20Stare!5e0!3m2!1spl!2spl!4v1684154547216!5m2!1spl!2spl"
 			class="rounded-xl"
 			height="100%"
 			width="100%"
