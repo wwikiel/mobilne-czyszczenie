@@ -81,10 +81,12 @@
 			><img src={tiktok} alt="Tiktok" class="w-14" /></a
 		>
 	</div>
-	<div class="w-full h-56 px-4 md:px-32 lg:px-56 items-center flex flex-col justify-center">
-		<h2 class="text-3xl md:text-4xl space-y-8">Zobacz co o nas mówią!</h2>
+
+	<h2 class="text-3xl md:text-4xl">Zobacz co o nas mówią!</h2>
+	<div class="space-y-6">
+		<div class="flex flex-row items-center space-x-6">
+			<img src={qr} alt="Kod QR" class="w-12" />
+		</div>
 	</div>
-	<div class="w-full h-56 px-4 md:px-32 lg:px-56 items-center flex flex-col justify-center">
-		<img src={qr} alt="Kod QR"/>
-	</div>
+	
 </div>
