@@ -5,6 +5,7 @@
 	import facebook from '$lib/assets/facebook.png';
 	import instagram from '$lib/assets/instagram.png';
 	import tiktok from '$lib/assets/tiktok.png';
+	import qr from '$lib/assets/kodqr.jpg';
 </script>
 
 <Navbar let:hidden let:toggle color="none" navClass="bg-black px-2 sm:px-4 py-2.5 w-full">
@@ -79,5 +80,8 @@
 			href="https://www.tiktok.com/@mobilne.czyszczenie?fbclid=IwAR2LnrLCoXLdfMo5yHOuQtk8Ws9076nmbgbGKQzROkT8XbmTxYVpxUm1KKo"
 			><img src={tiktok} alt="Tiktok" class="w-14" /></a
 		>
+	</div>
+	<div class="w-full h-56 px-4 md:px-32 lg:px-56">
+		<img src={qr} alt="Kod QR"/>
 	</div>
 </div>
