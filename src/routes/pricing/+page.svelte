@@ -93,7 +93,7 @@
 		<tr> <td>Impregnacja wykładzin</td><td> 7 zł/m²</td> </tr>
 	</table>
 
-	<p class="pb-23">
+	<p class="pb-24">
 		* Wszystkie podane ceny są cenami orientacyjnymi oraz są uzależnione od wielkości czyszczonej
 		powierzchni i stopnia zabrudzenia <br />*Minimalna wartość zlecenia 149zł
 	</p>
