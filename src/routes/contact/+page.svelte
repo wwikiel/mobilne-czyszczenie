@@ -85,7 +85,7 @@
 	<h2 class="text-3xl md:text-4xl">Zobacz co o nas mówią!</h2>
 	<div class="space-y-6">
 		<div class="flex flex-row items-center space-x-2 pb-18">
-			<img src={qr} alt="Kod QR" class="w-23" />
+			<img src={qr} alt="Kod QR" class="w-23 h-26" />
 		</div>
 	</div>
 	
